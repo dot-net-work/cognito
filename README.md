@@ -1,2 +1,2 @@
-# cognito
+# Cognito
 Training Automation System
